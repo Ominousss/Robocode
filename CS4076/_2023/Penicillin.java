@@ -85,7 +85,6 @@ public class Penicillin extends WallAvoider {
         if(getTime() % 20  == 0) {
          _moveDirection *= -1;
          setAhead(150 * _moveDirection);
-         _moveDirection = 1;
         }
     }
 

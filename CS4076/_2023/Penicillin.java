@@ -1,7 +1,6 @@
 package CS4076._2023;
 
 import robocode.*;
-import robocode.Robot;
 
 import java.awt.*;
 import java.awt.geom.Point2D;

@@ -1,6 +1,5 @@
 package CS4076._2023;
 
-import robocode.AdvancedRobot;
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
 

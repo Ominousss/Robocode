@@ -53,15 +53,17 @@ public class Penicillin extends WallAvoider {
             turnGunRight(360);
         }
         */
+
+
+        while(_state.equals(State.test)) {
+            CircleEnemyLogic();
+        }
+
         while(_state.equals(State.defense)) {
         SideHandler();
         //ahead(RNG(25, 80));
         //if(RNG(1, 2) == 1) turnRight(RNG(10, 85));
         //else turnLeft(RNG(10, 85));
-        }
-
-        while(_state.equals(State.test)) {
-            turnRadarRight(360);
         }
     }
 
@@ -102,10 +104,6 @@ public class Penicillin extends WallAvoider {
         }
         SetState(State.test);
         SetSide(Side.left);
-    }
-
-    private int RNG(int start, int end) {
-        return ((int) (Math.random() * end)) + start;
     }
     //Cba to put in helper class
     public double DistTo(double x, double y) {

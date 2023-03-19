@@ -4,26 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efa1b32-a0ca-428b-a497-acd558e662d9" name="Changes" comment="" />
+    <list default="true" id="20a4d319-450a-4aa7-9b4e-61305ba68532" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Robocode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NA3ih62LccuUVOjDOmLbrgAGDN" />
+  <component name="ProjectId" id="2NFcZgI2Ueh8AlR0VMrSkoYFxu6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,10 +25,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/robocode/robots/Robocode/Robocode/CS4076",
+    "last_opened_file_path": "D:/robocode/libs/roborumble.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,42 +34,18 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15039062",
     "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\robocode\robots\Robocode\Robocode\CS4076" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6efa1b32-a0ca-428b-a497-acd558e662d9" name="Changes" comment="" />
-      <created>1679093189423</created>
+      <changelist id="20a4d319-450a-4aa7-9b4e-61305ba68532" name="Changes" comment="" />
+      <created>1679263328123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679093189423</updated>
-      <workItem from="1679093190487" duration="6828000" />
-      <workItem from="1679154417134" duration="2074000" />
-      <workItem from="1679181621645" duration="11729000" />
-      <workItem from="1679231798501" duration="15770000" />
-      <workItem from="1679261278571" duration="2026000" />
+      <updated>1679263328123</updated>
+      <workItem from="1679263330132" duration="1039000" />
     </task>
     <servers />
   </component>

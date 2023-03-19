@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Robocode-1.0">
+  <library name="Robocode">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../libs/codesize-1.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../libs/picocontainer-2.14.2.jar!/" />
@@ -14,6 +14,8 @@
       <root url="jar://$PROJECT_DIR$/../../libs/roborumble.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
   </library>
 </component>
